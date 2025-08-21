@@ -1,0 +1,17 @@
+x=2
+y=22
+print (y/x)
+print (x*y)
+print("42 \n ,4.2 \n" ,  'forty_two' ,'true')
+# print (y/x, x*y, y(y), x(x) , y+x)
+print("42 \n ,4.2 \n ,  'forty_two' ,'true'")
+print("42 = integer  \n" ,"4.2 = float  \n" ,  'forty_two = string  \n ','true = boolean  \n')
+print(7//4, "truncating division")
+print(7/4)
+print(10.6//51)
+print(10.6/51)
+print(x**y, "power,x to the power y")
+print(y%x, "modulo(xmody) remainder")
+print(x==y,"equal to")
+print(x>=y,"greater than or equal to")
+print(x!=y,"not equal to")
